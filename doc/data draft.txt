@@ -1,0 +1,30 @@
+rutina
+	simple
+		ejercicio
+			serie 1
+				12 peso X
+			serie 2
+				12 peso X
+			serie 3
+				12 peso X
+			serie 4
+				12 peso X		
+				
+	dropset
+		ejercicio
+			serie 1
+				serie 1.1			
+					12 peso X
+				serie 1.2			
+					12 peso y
+				serie 1.3			
+					12 peso z
+					
+	superserie
+		serie 1
+			ejercicio A
+				serie 1
+					12 peso X
+			ejercicio B
+				serie 1
+					12 peso X

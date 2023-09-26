@@ -1,0 +1,58 @@
+{
+    "routineId": "64ba8251-6020-47b7-a708-c1be4df0033d",
+    "notes": "I had a good performance today",
+    "routineDetail": [
+        {
+            "routineDetailId": "64ba8251-6020-47b7-a708-c1be4df0033d",
+            "routineDetailType": "Simple",
+            "Excercise": [
+                {
+                    "excerciseId": "64ba8251-6020-47b7-a708-c1be4df0033d",                    
+                    "excerciseMetadata": {
+                        "weight": 35,
+                        "weightType": "lb"
+                    },
+                    "repsBySeries": [
+                        {
+                            "serieNumber": 1,
+                            "quantity": 15
+                        },
+                        {
+                            "serieNumber": 2,
+                            "quantity": 12
+                        },
+                        {
+                            "serieNumber": 3,
+                            "quantity": 10
+                        },
+                        {
+                            "serieNumber": 4,
+                            "quantity": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "routineDetailId": "64ba8251-6020-47b7-a708-c1be4df0033d",
+            "routineDetailType": "Simple",
+            "Excercise": [
+                {
+                    "excerciseId": "64ba8251-6020-47b7-a708-c1be4df0033d",                    
+                    "excerciseMetadata": {
+                        "weight": 35,
+                        "weightType": "lb"
+                    },
+                    "repsBySeries": [
+                        {
+                            "serieNumber": 1,
+                            "quantity": 15
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "createdAt" : "2023-09-25T22:39:08Z",
+    "updatedAt" : "2023-09-25T22:39:08Z"    
+}
